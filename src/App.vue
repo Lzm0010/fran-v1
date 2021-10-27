@@ -100,7 +100,7 @@
               the corporate fashion world, Francesca gave her acting career
               center stage. Barker McCormick has since landed roles in three
               series pilots (Skylife, SinFull, Justice Soldier of God) and three
-              films (The Scavenger, How to Find Love in a Pandemic, Game of
+              films (Ill Intentions, How to Find Love in a Pandemic, Game of
               Chess).
             </p>
             <p>
@@ -525,7 +525,7 @@ nav li:hover {
 }
 
 .about-me-img {
-  width: 75%;
+  width: 68%;
   height: 85%;
 }
 
