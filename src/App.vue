@@ -38,7 +38,7 @@
     <main class="main">
       <!-- Landing Page -->
       <section v-show="activeTab === ''">
-        <h2>Francesca Barker McCormick</h2>
+        <h2>FRANCESCA BARKER MCCORMICK</h2>
         <ul class="landing-links">
           <li>
             <a href="https://www.imdb.com/name/nm11906396/" target="_blank"
@@ -49,21 +49,21 @@
             <a
               href="https://resumes.actorsaccess.com/francescabmccormick"
               target="_blank"
-              >Actors Access</a
+              >ACTORS ACCESS</a
             >
           </li>
           <li>
             <a
               href="https://app.castingnetworks.com/talent/public-profile/b9b305d6-35e3-11ec-9c45-2b5241d49a43"
               target="_blank"
-              >LA Casting</a
+              >LA CASTING</a
             >
           </li>
           <li>
             <a
               href="https://www.backstage.com/u/francesca-mccormick/"
               target="_blank"
-              >Backstage</a
+              >BACKSTAGE</a
             >
           </li>
         </ul>
@@ -76,7 +76,7 @@
 
       <!-- About Tab -->
       <section v-show="activeTab === 'About'">
-        <h2>About Me</h2>
+        <h2>ABOUT ME</h2>
         <div class="about-me">
           <div class="about-me-item">
             <p>
@@ -131,7 +131,7 @@
 
       <!-- Photos Tab -->
       <section v-show="activeTab === 'Photos'">
-        <h2>Photos</h2>
+        <h2>PHOTOS</h2>
         <div class="headshots">
           <img
             class="headshot"
@@ -145,7 +145,7 @@
 
       <!-- Video Tab -->
       <section v-show="activeTab === 'Video'">
-        <h2>Video</h2>
+        <h2>VIDEO</h2>
         <div class="resume-container">
           <div class="video-frame">
             <iframe
@@ -162,7 +162,7 @@
       <!-- Resume Tab -->
       <section v-show="activeTab === 'Resume'">
         <div class="resume-header">
-          <h2>Resume</h2>
+          <h2>RESUME</h2>
           <a
             :href="`${publicPath}francescamccormickresume.pdf`"
             target="_blank"
@@ -183,7 +183,7 @@
 
       <!-- Resume Tab -->
       <section v-show="activeTab === 'Reviews'">
-        <h2>Reviews</h2>
+        <h2>REVIEWS</h2>
         <div class="reviews-container">
           <div class="reviews-frame">
             <div class="reviews">
@@ -275,7 +275,7 @@
       <!-- Contact Tab -->
       <section v-show="activeTab === 'Contact'">
         <div class="header-row">
-          <h2>Contact</h2>
+          <h2>CONTACT</h2>
           <a
             class="insta-link"
             href="https://www.instagram.com/francescabmccormick/?hl=en"
@@ -411,7 +411,7 @@ body {
 h2 {
   font-family: "crushed", Arial, Helvetica, sans-serif;
   font-size: 6rem;
-  color: #f56200;
+  color: #2e3138;
 }
 
 .header-row {
@@ -449,7 +449,7 @@ nav ul {
 }
 
 .highlight {
-  color: #f56200;
+  color: #2e3138;
 }
 
 /* .subtext {
